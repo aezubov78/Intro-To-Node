@@ -1,0 +1,19 @@
+{
+  "name": "nodejsbeginner",
+  "version": "10.15.0",
+  "description": "simple web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aezubov78/Intro-To-Node.git"
+  },
+  "author": "Aleksey Zubov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aezubov78/Intro-To-Node/issues"
+  },
+  "homepage": "https://github.com/aezubov78/Intro-To-Node#readme"
+}
